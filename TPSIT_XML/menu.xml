@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <piatto>
+    <nome>Spaghetti alla carbonara</nome>
+    <prezzo>12.99</prezzo>
+    <descrizione>Spaghetti cotti al dente con salsa di uova, pancetta e formaggio pecorino</descrizione>
+    <calorie>400</calorie>
+  </piatto>
+  <piatto>
+    <nome>Pizza Margherita</nome>
+    <prezzo>15.99</prezzo>
+    <descrizione>Pizza con salsa di pomodoro, mozzarella e basilico</descrizione>
+    <calorie>450</calorie>
+  </piatto>
+  <piatto>
+    <nome>Filetto di manzo</nome>
+    <prezzo>22.99</prezzo>
+    <descrizione>Filetto di manzo cotto alla griglia con patate al forno e verdure</descrizione>
+    <calorie>600</calorie>
+  </piatto>
+  <piatto>
+    <nome>Salmone alla griglia</nome>
+    <prezzo>18.99</prezzo>
+    <descrizione>Salmone fresco alla griglia con riso pilaf e verdure</descrizione>
+    <calorie>500</calorie>
+  </piatto>
+  <piatto>
+    <nome>Lasagne alla Bolognese</nome>
+    <prezzo>13.99</prezzo>
+    <descrizione>Lasagne con salsa di carne e besciamella</descrizione>
+    <calorie>450</calorie>
+  </piatto>
+  <piatto>
+    <nome>Penne all'arrabbiata</nome>
+    <prezzo>10.99</prezzo>
+    <descrizione>Penne con salsa piccante di pomodoro e peperoncino</descrizione>
+    <calorie>400</calorie>
+  </piatto>
+  <piatto>
+    <nome>Risotto ai funghi</nome>
+    <prezzo>14.99</prezzo>
+    <descrizione>Risotto con funghi porcini e parmigiano</descrizione>
+    <calorie>450</calorie>
+  </piatto>
+  <piatto>
+    <nome>Insalata caprese</nome>
+    <prezzo>8.99</prezzo>
+    <descrizione>Insalata di pomodori e mozzarella con basilico e olio d'oliva</descrizione>
+    <calorie>200</calorie>
+  </piatto>
+</menu>
