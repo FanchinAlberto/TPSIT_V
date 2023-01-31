@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <dati-personali>
+        <nome>Alberto</nome>
+        <cognome>Fanchin</cognome>
+        <data-di-nascita>13/11/2004</data-di-nascita>
+        <luogo-di-nascita>Vicenza</luogo-di-nascita>
+        <residenza>Viale Riviera Berica 203</residenza>
+    </dati-personali>
+    <istruzione>
+        <titolo>Diploma di 5^ Superiore</titolo>
+        <scuola>ITIS Rossi</scuola>
+        <formazione>Informatica</formazione>
+    </istruzione>
+</persona>
