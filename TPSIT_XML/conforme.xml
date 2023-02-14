@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PROGRAMMAZIONE SYSTEM "programmazione.dtd">
+<PROGRAMMAZIONE NOME="Programmazione TV">
+  <CANALE NUMERO="1">
+    <NOME>Rai Uno</NOME>
+    <GIORNO>
+      <DATA>2023-02-15</DATA>
+      <SLOT_PROGRAMMA>
+        <ORA>20:30</ORA>
+        <TITOLO RATING="Tutti">Programma di esempio</TITOLO>
+        <DESCRIZIONE>Un programma di esempio molto interessante</DESCRIZIONE>
+      </SLOT_PROGRAMMA>
+      <SLOT_PROGRAMMA VTR="si">
+        <ORA>21:30</ORA>
+        <TITOLO RATING="Adulti">Programma notturno</TITOLO>
+      </SLOT_PROGRAMMA>
+    </GIORNO>
+  </CANALE>
+</PROGRAMMAZIONE>

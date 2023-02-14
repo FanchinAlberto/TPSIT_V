@@ -1,0 +1,22 @@
+<squadra>
+  <nome>ACME United</nome>
+  <serie>A</serie>
+  <presidente>John Doe</presidente>
+  <allenatore>Joe Smith</allenatore>
+  <giocatori>
+    <giocatore titolare="si">
+      <nome>Marco Rossi</nome>
+      <ruoli>centrocampista</ruoli>
+      <ruoli>ala destra</ruoli>
+    </giocatore>
+    <giocatore titolare="si">
+      <nome>Giovanni Bianchi</nome>
+      <ruoli>portiere</ruoli>
+    </giocatore>
+    <giocatore titolare="no">
+      <nome>Alessandro Verdi</nome>
+      <ruoli>difensore centrale</ruoli>
+      <ruoli>centrocampista difensivo</ruoli>
+    </giocatore>
+  </giocatori>
+</squadra>
